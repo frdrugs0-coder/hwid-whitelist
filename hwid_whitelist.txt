@@ -1,0 +1,2 @@
+# HWID Whitelist - Managed by Discord Bot
+# Add one HWID per line (32 uppercase hex characters)
